@@ -1,8 +1,8 @@
 module.exports = {
   "title": "Yim's Blog",
   "description": "blog",
-  "dest": "",
-  "base": '/public',
+  "dest": "public",
+  "base": '/',
   "head": [
     [
       "link",
