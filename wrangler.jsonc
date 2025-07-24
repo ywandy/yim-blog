@@ -1,0 +1,7 @@
+{
+  "name": "test-yim-blog",
+  "assets": {
+    "directory": "./public"
+  },
+"compatibility_date":"2025-07-24"
+}
